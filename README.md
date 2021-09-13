@@ -6,7 +6,7 @@ The goal of this project was to analyze maria files that show evidence of academ
 ## Results
 Much of the data results from the analysis remained the same. This makes sense given that we had a bigger set of data, and manipulating only a small portion of the data, columns math and reading scores for 9th graders at Thomas High School would  the data. Below is the table from the original analysis, which includes the math and reading scores for 9th graders at Thomas High School.
 
-![Original Metrics](https://github.com/MasterAnalysis/School--District_Analysis)
+![Original Metrics](https://github.com/MasterAnalysis/School--District_Analysis/blob/main/Screen%20Shot%202021-09-12%20at%209.39.23%20PM.png)
 
 The following data  is from the most recent analysis, where the math and reading scores for 9th graders at Thomas High School was deleted. We can see that the only differences are the averages and percent passing in Thomas High School, Even with the removal of certain data, the overall results stayed similarly the same.
 
